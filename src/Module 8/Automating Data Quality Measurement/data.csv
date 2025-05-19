@@ -1,0 +1,6 @@
+name,age,email,income
+Alice,25,alice@example.com,50000
+Bob,,bob@example.com,60000
+Charlie,35,charlie@example.com,
+David,40,david@example.com,80000
+Eve,,eve@example.com,
