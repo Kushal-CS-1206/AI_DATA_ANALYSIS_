@@ -1,0 +1,114 @@
+2025-05-19 14:12:28,601 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:12:28,602 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:12:28,602 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:12:38,614 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:12:38,614 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:12:38,614 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:12:48,621 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:12:48,621 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:12:48,621 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:12:58,634 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:12:58,634 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:12:58,634 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:13:08,646 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:13:08,646 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:13:08,646 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:13:18,657 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:13:18,657 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:13:18,657 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:13:28,669 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:13:28,669 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:13:28,669 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:13:38,682 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:13:38,682 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:13:38,682 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:13:48,695 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:13:48,695 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:13:48,695 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:13:58,702 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:13:58,702 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:13:58,702 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:14:08,714 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:14:08,714 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:14:08,714 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:14:18,726 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:14:18,726 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:14:18,726 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:14:28,729 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:14:28,729 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:14:28,729 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:14:38,733 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:14:38,733 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:14:38,733 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:14:48,742 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:14:48,742 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:14:48,742 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:14:58,754 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:14:58,754 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:14:58,754 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:15:08,764 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:15:08,764 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:15:08,764 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:15:18,776 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:15:18,777 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:15:18,777 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:15:28,789 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:15:28,789 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:15:28,789 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:15:38,794 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:15:38,794 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:15:38,794 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:15:48,806 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:15:48,807 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:15:48,807 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:15:58,817 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:15:58,817 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:15:58,817 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:16:08,822 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:16:08,822 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:16:08,822 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:16:18,830 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:16:18,830 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:16:18,830 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:16:28,838 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:16:28,838 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:16:28,838 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:16:38,851 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:16:38,851 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:16:38,852 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:16:48,603 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:16:48,603 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:16:48,603 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:16:58,614 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:16:58,614 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:16:58,614 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:17:08,618 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:17:08,618 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:17:08,618 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:17:18,630 - INFO - Completeness (missing price %): 20.00%
+2025-05-19 14:17:18,630 - INFO - Accuracy (price mismatch %): 40.00%
+2025-05-19 14:17:18,630 - INFO - Incorrect Values (negative price %): 20.00%
+2025-05-19 14:20:18,372 - INFO - Missing Rate:
+id       0.0
+value    0.4
+dtype: float64
+2025-05-19 14:20:28,384 - INFO - Missing Rate:
+id       0.0
+value    0.4
+dtype: float64
+2025-05-19 14:20:38,395 - INFO - Missing Rate:
+id       0.0
+value    0.4
+dtype: float64
+2025-05-19 14:20:48,406 - INFO - Missing Rate:
+id       0.0
+value    0.4
+dtype: float64
+2025-05-19 14:20:58,417 - INFO - Missing Rate:
+id       0.0
+value    0.4
+dtype: float64
+2025-05-19 14:21:08,429 - INFO - Missing Rate:
+id       0.0
+value    0.4
+dtype: float64
