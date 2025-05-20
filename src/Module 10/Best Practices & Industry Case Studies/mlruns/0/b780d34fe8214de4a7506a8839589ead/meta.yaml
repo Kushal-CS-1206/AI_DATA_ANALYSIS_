@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/AI_DATA_ANALYSIS_/src/Module%2010/Best%20Practices%20%26%20Industry%20Case%20Studies/mlruns/0/b780d34fe8214de4a7506a8839589ead/artifacts
+end_time: 1747759832274
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b780d34fe8214de4a7506a8839589ead
+run_name: exultant-fowl-419
+run_uuid: b780d34fe8214de4a7506a8839589ead
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747759824195
+status: 3
+tags: []
+user_id: vscode
